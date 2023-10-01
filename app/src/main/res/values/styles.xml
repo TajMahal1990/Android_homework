@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.AppTheme.LikeButton" parent="@style/Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="icon">@drawable/ic_likes_selector</item>
+        <item name="iconTint">@color/color_like_tint</item>
+        <item name="android:minWidth">@dimen/post_avatar_size</item>
+        <item name="android:minHeight">@dimen/post_avatar_size</item>
+        <item name="android:backgroundTint">@android:color/transparent</item>
+        <item name="android:textColor">@color/icon_button_tint</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+
+    </style>
+
+    <style name="Widget.AppTheme.IconButton" parent="@style/Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="android:textColor">@color/icon_button_tint</item>
+        <item name="android:backgroundTint">@android:color/transparent</item>
+        <item name="iconTint">@color/icon_button_tint</item>
+        <item name="android:minWidth">@dimen/post_avatar_size</item>
+        <item name="android:minHeight">@dimen/post_avatar_size</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <style name="Widget.AppTheme.MenuButton" parent="@style/Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="android:textColor">@color/icon_button_tint</item>
+        <item name="android:backgroundTint">@android:color/transparent</item>
+        <item name="iconTint">@color/icon_button_tint</item>
+        <item name="iconPadding">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:minWidth">@dimen/post_avatar_size</item>
+        <item name="android:minHeight">@dimen/post_avatar_size</item>
+    </style>
+
+</resources>

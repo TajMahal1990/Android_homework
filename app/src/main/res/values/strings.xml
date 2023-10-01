@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="avatar">avatar</string>
+    <string name="app_name">Nmedia!</string>
+    <string name="likes">likes</string>
+    <string name="share">share</string>
+    <string name="menu">menu</string>
+    <string name="views">views</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_remove">Remove</string>
+    <string name="post_text">Post Text</string>
+    <string name="description_post_save">Save</string>
+    <string name="error_empty_content">Content can\'t be empty</string>
+    <string name="description_post_cancel">Cancel</string>
+    <string name="edit_text_post">Edit content</string>
+    <string name="save">Save</string>
+    <string name="add_post">add post</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="title_youtube_video">YouTube Video</string>
+    <string name="url_is_null">URL is null</string>
+    <string name="google_play_unavailable">Google Api Unavailable</string>
+    <string name="notification_user_liked">User %1$s liked %2$s\'s post</string>
+    <string name="channel_remote_name">Server notifications</string>
+    <string name="channel_remote_description">Notifications from remote server</string>
+    <string name="notification_new_post">%1$s posted a new post:</string>
+    <string name="empty">Empty</string>
+    <string name="network_error">Network error</string>
+    <string name="retry">Retry</string>
+    <string name="post_attachment">postAttachment</string>
+    <string name="video_post">video_post</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="send">send</string>
+    <string name="new_posts">new posts</string>
+</resources>
